@@ -1,0 +1,4304 @@
+Data: custom_points.txt
+K: 2
+Max Hidden Layers: 3
+Max Hidden Nodes:7
+Learning Rate: 0.1
+Time: 0.2
+
+
+Total Rounds: 399
+round 1
+Running Layers: 1
+Layer 0 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.296577
+
+round 2
+Running Layers: 1
+Layer 0 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0818908
+
+round 3
+Running Layers: 1
+Layer 0 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0270178
+
+round 4
+Running Layers: 1
+Layer 0 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.653895
+
+round 5
+Running Layers: 1
+Layer 0 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0967219
+
+round 6
+Running Layers: 1
+Layer 0 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0604326
+
+round 7
+Running Layers: 1
+Layer 0 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0557858
+
+round 8
+0 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.275195
+
+round 9
+1 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.345723
+
+round 10
+2 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0313376
+
+round 11
+3 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.670379
+
+round 12
+4 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0775803
+
+round 13
+5 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0457759
+
+round 14
+6 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0307103
+
+round 15
+7 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.323734
+
+round 16
+8 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.048053
+
+round 17
+9 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0134376
+
+round 18
+10 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.030555
+
+round 19
+11 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0665954
+
+round 20
+12 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.145132
+
+round 21
+13 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0227535
+
+round 22
+14 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.177335
+
+round 23
+15 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.153084
+
+round 24
+16 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.416955
+
+round 25
+17 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0393367
+
+round 26
+18 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0439505
+
+round 27
+19 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0240139
+
+round 28
+20 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0521159
+
+round 29
+21 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.230228
+
+round 30
+22 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.162243
+
+round 31
+23 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.00376296
+
+round 32
+24 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.00397387
+
+round 33
+25 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0887477
+
+round 34
+26 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0273396
+
+round 35
+27 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0608263
+
+round 36
+28 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.221577
+
+round 37
+29 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.145438
+
+round 38
+30 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.00286168
+
+round 39
+31 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0322676
+
+round 40
+32 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0829313
+
+round 41
+33 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0102771
+
+round 42
+34 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0460616
+
+round 43
+35 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.27786
+
+round 44
+36 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0861989
+
+round 45
+37 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00854783
+
+round 46
+38 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00479092
+
+round 47
+39 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0665913
+
+round 48
+40 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0243384
+
+round 49
+41 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0785289
+
+round 50
+42 / 7
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0456883
+
+round 51
+43 / 7
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.145893
+
+round 52
+44 / 7
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0188599
+
+round 53
+45 / 7
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.346941
+
+round 54
+46 / 7
+Running Layers: 2
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0250044
+
+round 55
+47 / 7
+Running Layers: 2
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0544767
+
+round 56
+48 / 7
+Running Layers: 2
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.00717176
+
+round 57
+49 / 7
+-1 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.251222
+
+round 58
+50 / 7
+0 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.249361
+
+round 59
+51 / 7
+1 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.391822
+
+round 60
+52 / 7
+2 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.571177
+
+round 61
+53 / 7
+3 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0825902
+
+round 62
+54 / 7
+4 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.234014
+
+round 63
+55 / 7
+5 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.250013
+
+round 64
+56 / 7
+6 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.364931
+
+round 65
+57 / 7
+7 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0934751
+
+round 66
+58 / 7
+8 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.00394536
+
+round 67
+59 / 7
+9 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0348177
+
+round 68
+60 / 7
+10 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0755949
+
+round 69
+61 / 7
+11 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0909229
+
+round 70
+62 / 7
+12 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0904723
+
+round 71
+63 / 7
+13 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.351292
+
+round 72
+64 / 7
+14 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.114188
+
+round 73
+65 / 7
+15 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0437736
+
+round 74
+66 / 7
+16 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.00637551
+
+round 75
+67 / 7
+17 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.148056
+
+round 76
+68 / 7
+18 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.00585854
+
+round 77
+69 / 7
+19 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.103491
+
+round 78
+70 / 7
+20 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.280375
+
+round 79
+71 / 7
+21 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.121408
+
+round 80
+72 / 7
+22 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0200616
+
+round 81
+73 / 7
+23 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.180018
+
+round 82
+74 / 7
+24 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0818888
+
+round 83
+75 / 7
+25 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0501525
+
+round 84
+76 / 7
+26 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0735516
+
+round 85
+77 / 7
+27 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.353725
+
+round 86
+78 / 7
+28 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0518686
+
+round 87
+79 / 7
+29 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.372439
+
+round 88
+80 / 7
+30 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.00405776
+
+round 89
+81 / 7
+31 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0914673
+
+round 90
+82 / 7
+32 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0963175
+
+round 91
+83 / 7
+33 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0593581
+
+round 92
+84 / 7
+34 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.304907
+
+round 93
+85 / 7
+35 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.116664
+
+round 94
+86 / 7
+36 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.00435904
+
+round 95
+87 / 7
+37 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.193377
+
+round 96
+88 / 7
+38 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0475854
+
+round 97
+89 / 7
+39 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0832779
+
+round 98
+90 / 7
+40 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0605692
+
+round 99
+91 / 7
+41 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.33886
+
+round 100
+92 / 7
+42 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.132355
+
+round 101
+93 / 7
+43 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.044356
+
+round 102
+94 / 7
+44 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.103494
+
+round 103
+95 / 7
+45 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: 0.0565842
+
+round 104
+96 / 7
+46 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0118123
+
+round 105
+97 / 7
+47 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.0810365
+
+round 106
+98 / 7
+48 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Average error: -0.2519
+
+round 107
+99 / 7
+49 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.115643
+
+round 108
+100 / 7
+50 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.432472
+
+round 109
+101 / 7
+51 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.369128
+
+round 110
+102 / 7
+52 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.109743
+
+round 111
+103 / 7
+53 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0244129
+
+round 112
+104 / 7
+54 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0405481
+
+round 113
+105 / 7
+55 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.10968
+
+round 114
+106 / 7
+56 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.191575
+
+round 115
+107 / 7
+58 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.00916093
+
+round 116
+108 / 7
+59 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0120341
+
+round 117
+109 / 7
+60 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0820566
+
+round 118
+110 / 7
+61 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.162548
+
+round 119
+111 / 7
+62 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0758025
+
+round 120
+112 / 7
+63 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.258182
+
+round 121
+113 / 7
+64 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.165346
+
+round 122
+114 / 7
+65 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0131855
+
+round 123
+115 / 7
+66 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.207441
+
+round 124
+116 / 7
+67 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.00326597
+
+round 125
+117 / 7
+68 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.00746378
+
+round 126
+118 / 7
+69 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.032312
+
+round 127
+119 / 7
+70 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.118
+
+round 128
+120 / 7
+71 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0339083
+
+round 129
+121 / 7
+72 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.00666248
+
+round 130
+122 / 7
+73 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.00418425
+
+round 131
+123 / 7
+74 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0576397
+
+round 132
+124 / 7
+75 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0470617
+
+round 133
+125 / 7
+76 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0661607
+
+round 134
+126 / 7
+77 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.269518
+
+round 135
+127 / 7
+78 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.182812
+
+round 136
+128 / 7
+79 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.00841753
+
+round 137
+129 / 7
+80 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.00097236
+
+round 138
+130 / 7
+81 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0144759
+
+round 139
+131 / 7
+82 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0750408
+
+round 140
+132 / 7
+83 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.144253
+
+round 141
+133 / 7
+84 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.315447
+
+round 142
+134 / 7
+85 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.187893
+
+round 143
+135 / 7
+86 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.121127
+
+round 144
+136 / 7
+87 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.050872
+
+round 145
+137 / 7
+88 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0684332
+
+round 146
+138 / 7
+89 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0502709
+
+round 147
+139 / 7
+90 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0390522
+
+round 148
+140 / 7
+91 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.295063
+
+round 149
+141 / 7
+92 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.160634
+
+round 150
+142 / 7
+93 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.290127
+
+round 151
+143 / 7
+94 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0275999
+
+round 152
+144 / 7
+95 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: 0.0354127
+
+round 153
+145 / 7
+96 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.118227
+
+round 154
+146 / 7
+97 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Average error: -0.0249508
+
+round 155
+147 / 7
+98 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.335778
+
+round 156
+148 / 7
+99 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0672514
+
+round 157
+149 / 7
+100 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.522206
+
+round 158
+150 / 7
+101 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.496992
+
+round 159
+151 / 7
+102 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0460739
+
+round 160
+152 / 7
+103 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.254093
+
+round 161
+153 / 7
+104 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0744233
+
+round 162
+154 / 7
+105 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.33994
+
+round 163
+155 / 7
+106 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.183977
+
+round 164
+156 / 7
+107 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0988052
+
+round 165
+157 / 7
+108 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.215655
+
+round 166
+158 / 7
+109 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.100609
+
+round 167
+159 / 7
+110 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0676094
+
+round 168
+160 / 7
+111 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0386397
+
+round 169
+161 / 7
+112 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.209449
+
+round 170
+162 / 7
+113 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.141556
+
+round 171
+163 / 7
+114 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0367756
+
+round 172
+164 / 7
+115 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.00185194
+
+round 173
+165 / 7
+116 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.079763
+
+round 174
+166 / 7
+117 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.110072
+
+round 175
+167 / 7
+118 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.033647
+
+round 176
+168 / 7
+119 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.123394
+
+round 177
+169 / 7
+120 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.148318
+
+round 178
+170 / 7
+121 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0570201
+
+round 179
+171 / 7
+122 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0175365
+
+round 180
+172 / 7
+123 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0682518
+
+round 181
+173 / 7
+124 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.00224914
+
+round 182
+174 / 7
+125 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0137174
+
+round 183
+175 / 7
+126 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.270185
+
+round 184
+176 / 7
+127 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.170433
+
+round 185
+177 / 7
+128 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0194088
+
+round 186
+178 / 7
+129 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.407678
+
+round 187
+179 / 7
+130 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0338188
+
+round 188
+180 / 7
+131 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0368968
+
+round 189
+181 / 7
+132 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0570978
+
+round 190
+182 / 7
+133 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.307079
+
+round 191
+183 / 7
+134 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.162802
+
+round 192
+184 / 7
+135 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0428257
+
+round 193
+185 / 7
+136 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0318038
+
+round 194
+186 / 7
+137 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0783096
+
+round 195
+187 / 7
+138 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.107808
+
+round 196
+188 / 7
+139 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0245642
+
+round 197
+189 / 7
+140 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.123434
+
+round 198
+190 / 7
+141 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.169456
+
+round 199
+191 / 7
+142 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0213967
+
+round 200
+192 / 7
+143 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0179938
+
+round 201
+193 / 7
+144 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: 0.0761582
+
+round 202
+194 / 7
+145 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.000668289
+
+round 203
+195 / 7
+146 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Average error: -0.0654163
+
+round 204
+196 / 7
+147 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.288341
+
+round 205
+197 / 7
+148 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.241453
+
+round 206
+198 / 7
+149 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.68992
+
+round 207
+199 / 7
+150 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.338833
+
+round 208
+200 / 7
+151 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.085074
+
+round 209
+201 / 7
+152 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0746845
+
+round 210
+202 / 7
+153 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0290293
+
+round 211
+203 / 7
+154 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.326723
+
+round 212
+204 / 7
+155 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.175776
+
+round 213
+205 / 7
+156 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.00190823
+
+round 214
+206 / 7
+157 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.00307159
+
+round 215
+207 / 7
+158 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0347327
+
+round 216
+208 / 7
+159 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0129773
+
+round 217
+209 / 7
+160 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0948216
+
+round 218
+210 / 7
+161 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.231833
+
+round 219
+211 / 7
+162 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.125344
+
+round 220
+212 / 7
+163 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.106047
+
+round 221
+213 / 7
+164 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.205591
+
+round 222
+214 / 7
+165 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0607586
+
+round 223
+215 / 7
+166 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.016946
+
+round 224
+216 / 7
+167 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.126502
+
+round 225
+217 / 7
+168 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.286998
+
+round 226
+218 / 7
+169 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.194798
+
+round 227
+219 / 7
+170 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.143668
+
+round 228
+220 / 7
+171 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0267707
+
+round 229
+221 / 7
+172 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.117521
+
+round 230
+222 / 7
+173 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0463306
+
+round 231
+223 / 7
+174 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0120272
+
+round 232
+224 / 7
+175 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.294264
+
+round 233
+225 / 7
+176 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.207093
+
+round 234
+226 / 7
+177 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0526958
+
+round 235
+227 / 7
+178 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0235591
+
+round 236
+228 / 7
+179 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.00501502
+
+round 237
+229 / 7
+180 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0552897
+
+round 238
+230 / 7
+181 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.000549662
+
+round 239
+231 / 7
+182 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.231877
+
+round 240
+232 / 7
+183 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.187724
+
+round 241
+233 / 7
+184 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0532849
+
+round 242
+234 / 7
+185 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0324881
+
+round 243
+235 / 7
+186 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0255473
+
+round 244
+236 / 7
+187 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0159662
+
+round 245
+237 / 7
+188 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.116598
+
+round 246
+238 / 7
+189 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.22044
+
+round 247
+239 / 7
+190 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.187035
+
+round 248
+240 / 7
+191 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0685325
+
+round 249
+241 / 7
+192 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0130399
+
+round 250
+242 / 7
+193 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: 0.0289214
+
+round 251
+243 / 7
+194 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0927261
+
+round 252
+244 / 7
+195 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Average error: -0.0707361
+
+round 253
+245 / 7
+196 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.285375
+
+round 254
+246 / 7
+197 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.199861
+
+round 255
+247 / 7
+198 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.44665
+
+round 256
+248 / 7
+199 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.332338
+
+round 257
+249 / 7
+200 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.101931
+
+round 258
+250 / 7
+201 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0791123
+
+round 259
+251 / 7
+202 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.15326
+
+round 260
+252 / 7
+203 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.334311
+
+round 261
+253 / 7
+204 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.178752
+
+round 262
+254 / 7
+205 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.101371
+
+round 263
+255 / 7
+206 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.00208488
+
+round 264
+256 / 7
+207 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.137189
+
+round 265
+257 / 7
+208 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0777016
+
+round 266
+258 / 7
+209 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0510717
+
+round 267
+259 / 7
+210 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.336575
+
+round 268
+260 / 7
+211 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.162188
+
+round 269
+261 / 7
+212 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.185671
+
+round 270
+262 / 7
+213 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.000970112
+
+round 271
+263 / 7
+214 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0229627
+
+round 272
+264 / 7
+215 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0956839
+
+round 273
+265 / 7
+216 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.029821
+
+round 274
+266 / 7
+217 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.281786
+
+round 275
+267 / 7
+218 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.183484
+
+round 276
+268 / 7
+219 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.200894
+
+round 277
+269 / 7
+220 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0203294
+
+round 278
+270 / 7
+221 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0470571
+
+round 279
+271 / 7
+222 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0531094
+
+round 280
+272 / 7
+223 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0581493
+
+round 281
+273 / 7
+224 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.20387
+
+round 282
+274 / 7
+225 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.166216
+
+round 283
+275 / 7
+226 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0454312
+
+round 284
+276 / 7
+227 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0226044
+
+round 285
+277 / 7
+228 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.00619014
+
+round 286
+278 / 7
+229 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0932612
+
+round 287
+279 / 7
+230 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.196772
+
+round 288
+280 / 7
+231 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.31858
+
+round 289
+281 / 7
+232 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.193045
+
+round 290
+282 / 7
+233 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0177674
+
+round 291
+283 / 7
+234 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0473922
+
+round 292
+284 / 7
+235 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0198015
+
+round 293
+285 / 7
+236 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0954932
+
+round 294
+286 / 7
+237 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.111446
+
+round 295
+287 / 7
+238 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.27787
+
+round 296
+288 / 7
+239 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.203552
+
+round 297
+289 / 7
+240 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0371477
+
+round 298
+290 / 7
+241 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0210985
+
+round 299
+291 / 7
+242 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0163666
+
+round 300
+292 / 7
+243 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: 0.0510616
+
+round 301
+293 / 7
+244 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 5
+Trial data: 0
+Trial data: 1
+Average error: -0.0562594
+
+round 302
+294 / 7
+245 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.269763
+
+round 303
+295 / 7
+246 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.249672
+
+round 304
+296 / 7
+247 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.744865
+
+round 305
+297 / 7
+248 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.353393
+
+round 306
+298 / 7
+249 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.104009
+
+round 307
+299 / 7
+250 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.329309
+
+round 308
+300 / 7
+251 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.239843
+
+round 309
+301 / 7
+252 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.332254
+
+round 310
+302 / 7
+253 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.129922
+
+round 311
+303 / 7
+254 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.409543
+
+round 312
+304 / 7
+255 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0246818
+
+round 313
+305 / 7
+256 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.026966
+
+round 314
+306 / 7
+257 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00254262
+
+round 315
+307 / 7
+258 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00860695
+
+round 316
+308 / 7
+259 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.292574
+
+round 317
+309 / 7
+260 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.130311
+
+round 318
+310 / 7
+261 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0598353
+
+round 319
+311 / 7
+262 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0815763
+
+round 320
+312 / 7
+263 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0500848
+
+round 321
+313 / 7
+264 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0180873
+
+round 322
+314 / 7
+265 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0218854
+
+round 323
+315 / 7
+266 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.312151
+
+round 324
+316 / 7
+267 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.146071
+
+round 325
+317 / 7
+268 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0432237
+
+round 326
+318 / 7
+269 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0524159
+
+round 327
+319 / 7
+270 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0745139
+
+round 328
+320 / 7
+271 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0235804
+
+round 329
+321 / 7
+272 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.117654
+
+round 330
+322 / 7
+273 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.29545
+
+round 331
+323 / 7
+274 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.151212
+
+round 332
+324 / 7
+275 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.102465
+
+round 333
+325 / 7
+276 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.000892081
+
+round 334
+326 / 7
+277 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00893673
+
+round 335
+327 / 7
+278 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.111337
+
+round 336
+328 / 7
+279 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.00410841
+
+round 337
+329 / 7
+280 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.295513
+
+round 338
+330 / 7
+281 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.172619
+
+round 339
+331 / 7
+282 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.620114
+
+round 340
+332 / 7
+283 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.152851
+
+round 341
+333 / 7
+284 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.163406
+
+round 342
+334 / 7
+285 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0274761
+
+round 343
+335 / 7
+286 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.0949049
+
+round 344
+336 / 7
+287 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.279662
+
+round 345
+337 / 7
+288 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.156332
+
+round 346
+338 / 7
+289 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.379774
+
+round 347
+339 / 7
+290 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.290076
+
+round 348
+340 / 7
+291 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0139372
+
+round 349
+341 / 7
+292 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: -0.149022
+
+round 350
+342 / 7
+293 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 6
+Trial data: 0
+Trial data: 1
+Average error: 0.0308616
+
+round 351
+343 / 7
+294 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.267727
+
+round 352
+344 / 7
+295 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.319102
+
+round 353
+345 / 7
+296 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.787742
+
+round 354
+346 / 7
+297 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.321232
+
+round 355
+347 / 7
+298 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.117648
+
+round 356
+348 / 7
+299 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.185197
+
+round 357
+349 / 7
+300 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 1
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.208577
+
+round 358
+350 / 7
+301 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.337906
+
+round 359
+351 / 7
+302 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.189412
+
+round 360
+352 / 7
+303 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.137234
+
+round 361
+353 / 7
+304 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0240391
+
+round 362
+354 / 7
+305 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0289136
+
+round 363
+355 / 7
+306 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0167997
+
+round 364
+356 / 7
+307 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 2
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.117959
+
+round 365
+357 / 7
+308 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.324705
+
+round 366
+358 / 7
+309 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0622915
+
+round 367
+359 / 7
+310 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.55859
+
+round 368
+360 / 7
+311 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0520117
+
+round 369
+361 / 7
+312 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0149677
+
+round 370
+362 / 7
+313 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0484893
+
+round 371
+363 / 7
+314 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 3
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.00297147
+
+round 372
+364 / 7
+315 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.272968
+
+round 373
+365 / 7
+316 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0644531
+
+round 374
+366 / 7
+317 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.539034
+
+round 375
+367 / 7
+318 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0136053
+
+round 376
+368 / 7
+319 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.00612046
+
+round 377
+369 / 7
+320 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0884016
+
+round 378
+370 / 7
+321 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 4
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.054348
+
+round 379
+371 / 7
+322 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.294918
+
+round 380
+372 / 7
+323 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0886676
+
+round 381
+373 / 7
+324 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0414612
+
+round 382
+374 / 7
+325 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.215369
+
+round 383
+375 / 7
+326 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.00672905
+
+round 384
+376 / 7
+327 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0102099
+
+round 385
+377 / 7
+328 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 5
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.00205834
+
+round 386
+378 / 7
+329 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.220674
+
+round 387
+379 / 7
+330 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.148807
+
+round 388
+380 / 7
+331 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.481776
+
+round 389
+381 / 7
+332 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.144119
+
+round 390
+382 / 7
+333 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0944384
+
+round 391
+383 / 7
+334 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0245311
+
+round 392
+384 / 7
+335 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 6
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0593876
+
+round 393
+385 / 7
+336 / 49
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.291075
+
+round 394
+386 / 7
+337 / 49
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.0285079
+
+round 395
+387 / 7
+338 / 49
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0673391
+
+round 396
+388 / 7
+339 / 49
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.256373
+
+round 397
+389 / 7
+340 / 49
+Running Layers: 3
+Layer 0 nodes: 5
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0291903
+
+round 398
+390 / 7
+341 / 49
+Running Layers: 3
+Layer 0 nodes: 6
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: -0.0478168
+
+round 399
+391 / 7
+342 / 49
+Running Layers: 3
+Layer 0 nodes: 7
+Layer 1 nodes: 7
+Layer 2 nodes: 7
+Trial data: 0
+Trial data: 1
+Average error: 0.026412
+
+Top: 
+layers: 3
+node 0: 7
+node 1: 5
+node 2: 4
+Error: -0.000549662
+
+layers: 3
+node 0: 6
+node 1: 7
+node 2: 3
+Error: -0.000668289
+
+layers: 3
+node 0: 4
+node 1: 5
+node 2: 6
+Error: 0.000892081
+
+layers: 3
+node 0: 4
+node 1: 3
+node 2: 5
+Error: -0.000970112
+
+layers: 3
+node 0: 4
+node 1: 5
+node 2: 2
+Error: -0.00097236
+
+Fin

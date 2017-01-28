@@ -1,0 +1,1611 @@
+Data: custom_points.txt
+K: 10
+Max Hidden Layers: 3
+Max Hidden Nodes:4
+Learning Rate: 0.1
+Time: 0.2
+
+
+Total Rounds: 84
+round 1
+Running Layers: 1
+Layer 0 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.107467
+
+round 2
+Running Layers: 1
+Layer 0 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0602204
+
+round 3
+Running Layers: 1
+Layer 0 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00961195
+
+round 4
+Running Layers: 1
+Layer 0 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.000968274
+
+round 5
+0 / 4
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.101838
+
+round 6
+1 / 4
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0496895
+
+round 7
+2 / 4
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0399358
+
+round 8
+3 / 4
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0352483
+
+round 9
+4 / 4
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0507961
+
+round 10
+5 / 4
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0288273
+
+round 11
+6 / 4
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00226798
+
+round 12
+7 / 4
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0161909
+
+round 13
+8 / 4
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0624578
+
+round 14
+9 / 4
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0245741
+
+round 15
+10 / 4
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00744647
+
+round 16
+11 / 4
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00150893
+
+round 17
+12 / 4
+Running Layers: 2
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0561744
+
+round 18
+13 / 4
+Running Layers: 2
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0145407
+
+round 19
+14 / 4
+Running Layers: 2
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00244782
+
+round 20
+15 / 4
+Running Layers: 2
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.00455139
+
+round 21
+16 / 4
+0 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0936184
+
+round 22
+17 / 4
+1 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0640592
+
+round 23
+18 / 4
+2 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0203886
+
+round 24
+19 / 4
+3 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0282124
+
+round 25
+20 / 4
+4 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0532157
+
+round 26
+21 / 4
+5 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.044499
+
+round 27
+22 / 4
+6 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00959272
+
+round 28
+23 / 4
+7 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.00938706
+
+round 29
+24 / 4
+8 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0631911
+
+round 30
+25 / 4
+9 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0335217
+
+round 31
+26 / 4
+10 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00878758
+
+round 32
+27 / 4
+11 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00471109
+
+round 33
+28 / 4
+12 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0609436
+
+round 34
+29 / 4
+13 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0166077
+
+round 35
+30 / 4
+14 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0196931
+
+round 36
+31 / 4
+15 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 1
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00771522
+
+round 37
+32 / 4
+16 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.048125
+
+round 38
+33 / 4
+17 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0386556
+
+round 39
+34 / 4
+18 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0237811
+
+round 40
+35 / 4
+19 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0276925
+
+round 41
+36 / 4
+20 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0573725
+
+round 42
+37 / 4
+21 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0154842
+
+round 43
+38 / 4
+22 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00482462
+
+round 44
+39 / 4
+23 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0183726
+
+round 45
+40 / 4
+24 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0576839
+
+round 46
+41 / 4
+25 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0189499
+
+round 47
+42 / 4
+26 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00327831
+
+round 48
+43 / 4
+27 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0056178
+
+round 49
+44 / 4
+28 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0661445
+
+round 50
+45 / 4
+29 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0165774
+
+round 51
+46 / 4
+30 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0055327
+
+round 52
+47 / 4
+31 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 2
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00433457
+
+round 53
+48 / 4
+32 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0514212
+
+round 54
+49 / 4
+33 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0575815
+
+round 55
+50 / 4
+34 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0207351
+
+round 56
+51 / 4
+35 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0296924
+
+round 57
+52 / 4
+36 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0519822
+
+round 58
+53 / 4
+37 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0202823
+
+round 59
+54 / 4
+38 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00653017
+
+round 60
+55 / 4
+39 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.015887
+
+round 61
+56 / 4
+40 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0578262
+
+round 62
+57 / 4
+41 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0180968
+
+round 63
+58 / 4
+42 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0101041
+
+round 64
+59 / 4
+43 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0111581
+
+round 65
+60 / 4
+44 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0629887
+
+round 66
+61 / 4
+45 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0184423
+
+round 67
+62 / 4
+46 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0016172
+
+round 68
+63 / 4
+47 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 3
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00237184
+
+round 69
+64 / 4
+48 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0536371
+
+round 70
+65 / 4
+49 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0594894
+
+round 71
+66 / 4
+50 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0188197
+
+round 72
+67 / 4
+51 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 1
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0339879
+
+round 73
+68 / 4
+52 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0503233
+
+round 74
+69 / 4
+53 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0263679
+
+round 75
+70 / 4
+54 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0091969
+
+round 76
+71 / 4
+55 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 2
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.00344448
+
+round 77
+72 / 4
+56 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0600759
+
+round 78
+73 / 4
+57 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.020008
+
+round 79
+74 / 4
+58 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0153894
+
+round 80
+75 / 4
+59 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 3
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: 0.0100938
+
+round 81
+76 / 4
+60 / 16
+Running Layers: 3
+Layer 0 nodes: 1
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0557332
+
+round 82
+77 / 4
+61 / 16
+Running Layers: 3
+Layer 0 nodes: 2
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.0257358
+
+round 83
+78 / 4
+62 / 16
+Running Layers: 3
+Layer 0 nodes: 3
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00158429
+
+round 84
+79 / 4
+63 / 16
+Running Layers: 3
+Layer 0 nodes: 4
+Layer 1 nodes: 4
+Layer 2 nodes: 4
+Trial data: 0
+Trial data: 1
+Trial data: 2
+Trial data: 3
+Trial data: 4
+Trial data: 5
+Trial data: 6
+Trial data: 7
+Trial data: 8
+Trial data: 9
+Average error: -0.00203316
+
+Top 10: 
+layers: -1
+Error: 5.0236e-304
+
+layers: 1
+node 0: 4
+Error: -0.000968274
+
+layers: 2
+node 0: 4
+node 1: 3
+Error: -0.00150893
+
+layers: 3
+node 0: 3
+node 1: 4
+node 2: 4
+Error: -0.00158429
+
+layers: 3
+node 0: 3
+node 1: 4
+node 2: 3
+Error: -0.0016172
+
+layers: 3
+node 0: 4
+node 1: 4
+node 2: 4
+Error: -0.00203316
+
+layers: 2
+node 0: 3
+node 1: 2
+Error: -0.00226798
+
+layers: 3
+node 0: 4
+node 1: 4
+node 2: 3
+Error: -0.00237184
+
+layers: 2
+node 0: 3
+node 1: 4
+Error: -0.00244782
+
+layers: 3
+node 0: 3
+node 1: 3
+node 2: 2
+Error: -0.00327831
+
+Fin
